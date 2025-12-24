@@ -1,4 +1,4 @@
-🌾 Smart Crop & Fertilizer Recommendation System
+#Smart Crop & Fertilizer Recommendation System
 📘 About the Project
 This project focuses on building a machine‑learning based system that helps in crop prediction and fertilizer recommendation. It is designed to support farmers and agricultural decision‑makers by providing accurate suggestions based on input data.
 
